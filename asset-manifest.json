@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/reality/static/css/main.3d5c4af7.chunk.css",
-    "main.js": "/reality/static/js/main.fc7f8d9b.chunk.js",
-    "main.js.map": "/reality/static/js/main.fc7f8d9b.chunk.js.map",
-    "runtime-main.js": "/reality/static/js/runtime-main.21ce1714.js",
-    "runtime-main.js.map": "/reality/static/js/runtime-main.21ce1714.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/reality/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.dd21a03e.chunk.js": "/reality/static/js/2.dd21a03e.chunk.js",
-    "static/js/2.dd21a03e.chunk.js.map": "/reality/static/js/2.dd21a03e.chunk.js.map",
-    "index.html": "/reality/index.html",
-    "precache-manifest.10eb6f53c49f9052bd01ec2f3315a542.js": "/reality/precache-manifest.10eb6f53c49f9052bd01ec2f3315a542.js",
-    "service-worker.js": "/reality/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/reality/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.3d5c4af7.chunk.css.map": "/reality/static/css/main.3d5c4af7.chunk.css.map",
-    "static/js/2.dd21a03e.chunk.js.LICENSE.txt": "/reality/static/js/2.dd21a03e.chunk.js.LICENSE.txt",
-    "static/media/Aakash_Baranwal.jpeg": "/reality/static/media/Aakash_Baranwal.186509e0.jpeg",
-    "static/media/aakash_baranwal.png": "/reality/static/media/aakash_baranwal.35c35624.png",
-    "static/media/logo.svg": "/reality/static/media/logo.5d5d9eef.svg",
-    "static/media/me.png": "/reality/static/media/me.6c086a33.png"
+    "main.css": "/reality/reality/static/css/main.3d5c4af7.chunk.css",
+    "main.js": "/reality/reality/static/js/main.c229876d.chunk.js",
+    "main.js.map": "/reality/reality/static/js/main.c229876d.chunk.js.map",
+    "runtime-main.js": "/reality/reality/static/js/runtime-main.c4a773dd.js",
+    "runtime-main.js.map": "/reality/reality/static/js/runtime-main.c4a773dd.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/reality/reality/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.dd21a03e.chunk.js": "/reality/reality/static/js/2.dd21a03e.chunk.js",
+    "static/js/2.dd21a03e.chunk.js.map": "/reality/reality/static/js/2.dd21a03e.chunk.js.map",
+    "index.html": "/reality/reality/index.html",
+    "precache-manifest.621785355ffc802caacb852f9f20faca.js": "/reality/reality/precache-manifest.621785355ffc802caacb852f9f20faca.js",
+    "service-worker.js": "/reality/reality/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/reality/reality/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.3d5c4af7.chunk.css.map": "/reality/reality/static/css/main.3d5c4af7.chunk.css.map",
+    "static/js/2.dd21a03e.chunk.js.LICENSE.txt": "/reality/reality/static/js/2.dd21a03e.chunk.js.LICENSE.txt",
+    "static/media/Aakash_Baranwal.jpeg": "/reality/reality/static/media/Aakash_Baranwal.186509e0.jpeg",
+    "static/media/aakash_baranwal.png": "/reality/reality/static/media/aakash_baranwal.35c35624.png",
+    "static/media/logo.svg": "/reality/reality/static/media/logo.5d5d9eef.svg",
+    "static/media/me.png": "/reality/reality/static/media/me.6c086a33.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.21ce1714.js",
+    "static/js/runtime-main.c4a773dd.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.dd21a03e.chunk.js",
     "static/css/main.3d5c4af7.chunk.css",
-    "static/js/main.fc7f8d9b.chunk.js"
+    "static/js/main.c229876d.chunk.js"
   ]
 }
